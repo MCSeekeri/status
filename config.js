@@ -12,7 +12,7 @@ window.Config = {
   ApiKeys: [
     'm785801886-fe798056dcefa062ca9f5619',
     'm785802121-f726e102d93b206615b80ae4',
-    'm785804188-4c7493bd8a273c86035ca35d',
+    'm785804188-4c7493bd8a273c86035ca35d'
   ],
 
   // 是否显示监测站点的链接
@@ -27,9 +27,7 @@ window.Config = {
   Navi: [
     {
       text: '资源合集',
-      url: 'https://sg.mcseekeri.top/'
-    }
-    {
+      url: 'https://sg.mcseekeri.top/',
       text: '回到主页',
       url: 'https://mcseekeri.top/'
     }
