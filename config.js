@@ -24,11 +24,17 @@ window.Config = {
   CountDays: 90,
 
   // 导航栏菜单
-  Navi: [
+   [
     {
-      text: '资源合集',
-      url: 'https://sg.mcseekeri.top/',
-      text: '回到主页',
+      text: '科A资源站',
+      url: 'https://sg.mcseekeri.top/'
+    },
+    {
+      text:'科A图书馆',
+      url: 'https://sciadv.mcseekeri.top/'
+    },
+    {
+      text: '个人博客',
       url: 'https://mcseekeri.top/'
     }
   ]
