@@ -30,7 +30,7 @@ window.Config = {
       url: 'https://sg.mcseekeri.top/'
     },
     {
-      text:'科A图书馆',
+      text: '科A图书馆',
       url: 'https://sciadv.mcseekeri.top/'
     },
     {
