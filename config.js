@@ -24,7 +24,7 @@ window.Config = {
   CountDays: 90,
 
   // 导航栏菜单
-   [
+  Navi: [
     {
       text: '科A资源站',
       url: 'https://sg.mcseekeri.top/'
