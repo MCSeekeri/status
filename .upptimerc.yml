@@ -1,0 +1,34 @@
+# Change these first
+owner: MCSeekeri # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
+
+sites:
+  - name: Sharkey 实例
+    url: https://mcseekeri.com
+  - name: 个人网盘
+    url: https://pan.mcseekeri.com/api/?path=/
+    __dangerous__body_down: error"
+  - name: 科 A 资源站
+    url: https://drive.sci-adv.cc/api/?path=/
+    __dangerous__body_down: error"
+  - name: Remember11 中文站
+    url: https://remember11.com
+
+assignees:
+  - MCSeekeri
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  cname: status.mcseekeri.com
+  # baseUrl: /your-repo-name
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Upptime
+  introTitle: "MC 的服务可用性监测"
+  introMessage: 本页面显示了 MCSeekeri 所有公开服务的可用性
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
