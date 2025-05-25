@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 135,
-    "timeDay": 153,
-    "timeWeek": 147,
-    "timeMonth": 135,
-    "timeYear": 135,
+    "time": 130,
+    "timeDay": 79,
+    "timeWeek": 135,
+    "timeMonth": 130,
+    "timeYear": 130,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.mcseekeri.com.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
-    "time": 402,
-    "timeDay": 586,
-    "timeWeek": 444,
-    "timeMonth": 402,
-    "timeYear": 402,
-    "dailyMinutesDown": {
-      "2025-05-19": 41
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 378,
+    "timeDay": 146,
+    "timeWeek": 433,
+    "timeMonth": 378,
+    "timeYear": 378,
+    "dailyMinutesDown": {}
   },
   {
     "name": "科 A 资源站",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 93,
-    "timeWeek": 108,
-    "timeMonth": 111,
-    "timeYear": 111,
+    "time": 112,
+    "timeDay": 125,
+    "timeWeek": 106,
+    "timeMonth": 112,
+    "timeYear": 112,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/remember11.com.ico",
     "slug": "remember11",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
-    "time": 1346,
-    "timeDay": 1471,
-    "timeWeek": 1334,
-    "timeMonth": 1346,
-    "timeYear": 1346,
-    "dailyMinutesDown": {
-      "2025-05-19": 41
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1359,
+    "timeDay": 1510,
+    "timeWeek": 1348,
+    "timeMonth": 1359,
+    "timeYear": 1359,
+    "dailyMinutesDown": {}
   }
 ]
