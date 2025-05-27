@@ -13,6 +13,8 @@ sites:
     __dangerous__body_down: error"
   - name: Remember11 中文站
     url: https://remember11.com
+  - name: 请在此输入汉化组名称汉化组
+    url: https://fantans.remember11.com
 
 assignees:
   - MCSeekeri
