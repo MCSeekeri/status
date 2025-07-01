@@ -6,7 +6,7 @@
     "slug": "sharkey",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,9 +15,7 @@
     "timeWeek": 336,
     "timeMonth": 212,
     "timeYear": 182,
-    "dailyMinutesDown": {
-      "2025-07-01": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "个人网盘",
@@ -26,18 +24,16 @@
     "slug": "",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 589,
-    "timeDay": 583,
+    "timeDay": 580,
     "timeWeek": 549,
     "timeMonth": 606,
     "timeYear": 589,
-    "dailyMinutesDown": {
-      "2025-07-01": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "科 A 资源站",
@@ -82,7 +78,7 @@
     "slug": "",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,8 +87,6 @@
     "timeWeek": 549,
     "timeMonth": 606,
     "timeYear": 589,
-    "dailyMinutesDown": {
-      "2025-07-01": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]
