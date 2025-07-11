@@ -4,18 +4,20 @@
     "url": "https://mcseekeri.com",
     "icon": "https://icons.duckduckgo.com/ip3/mcseekeri.com.ico",
     "slug": "sharkey",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 318,
-    "timeWeek": 350,
-    "timeMonth": 294,
-    "timeYear": 235,
-    "dailyMinutesDown": {}
+    "time": 234,
+    "timeDay": 297,
+    "timeWeek": 340,
+    "timeMonth": 292,
+    "timeYear": 234,
+    "dailyMinutesDown": {
+      "2025-07-11": 0
+    }
   },
   {
     "name": "个人网盘",
@@ -24,16 +26,18 @@
     "slug": "",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 586,
-    "timeDay": 562,
+    "timeDay": 563,
     "timeWeek": 591,
     "timeMonth": 604,
     "timeYear": 586,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-11": 0
+    }
   },
   {
     "name": "科 A 资源站",
@@ -78,15 +82,17 @@
     "slug": "",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 586,
-    "timeDay": 562,
+    "timeDay": 563,
     "timeWeek": 591,
     "timeMonth": 604,
     "timeYear": 586,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-11": 0
+    }
   }
 ]
