@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.mcseekeri.com.ico",
     "slug": "",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 612,
     "timeDay": 544,
     "timeWeek": 610,
     "timeMonth": 659,
     "timeYear": 612,
-    "dailyMinutesDown": {
-      "2025-08-09": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "科 A 资源站",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/drive.sci-adv.cc.ico",
     "slug": "a",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 263,
     "timeDay": 104,
     "timeWeek": 143,
     "timeMonth": 262,
     "timeYear": 263,
-    "dailyMinutesDown": {
-      "2025-08-09": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Remember11 中文站",
@@ -81,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fantans.remember11.com.ico",
     "slug": "",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 612,
     "timeDay": 544,
     "timeWeek": 610,
     "timeMonth": 659,
     "timeYear": 612,
-    "dailyMinutesDown": {
-      "2025-08-09": 13
-    }
+    "dailyMinutesDown": {}
   }
 ]
