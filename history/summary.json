@@ -24,26 +24,28 @@
     "slug": "",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 601,
-    "timeDay": 556,
+    "timeDay": 557,
     "timeWeek": 529,
     "timeMonth": 589,
     "timeYear": 601,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 0
+    }
   },
   {
     "name": "科 A 资源站",
     "url": "https://drive.sci-adv.cc/api/?path=/",
     "icon": "https://icons.duckduckgo.com/ip3/drive.sci-adv.cc.ico",
     "slug": "a",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 280,
@@ -51,7 +53,9 @@
     "timeWeek": 755,
     "timeMonth": 260,
     "timeYear": 280,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 1
+    }
   },
   {
     "name": "Remember11 中文站",
@@ -78,15 +82,17 @@
     "slug": "",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 601,
-    "timeDay": 556,
+    "timeDay": 557,
     "timeWeek": 529,
     "timeMonth": 589,
     "timeYear": 601,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 1
+    }
   }
 ]
