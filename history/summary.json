@@ -24,17 +24,17 @@
     "slug": "",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 600,
-    "timeDay": 562,
+    "timeDay": 561,
     "timeWeek": 529,
     "timeMonth": 586,
     "timeYear": 600,
     "dailyMinutesDown": {
-      "2025-08-25": 0
+      "2025-08-25": 6
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://drive.sci-adv.cc/api/?path=/",
     "icon": "https://icons.duckduckgo.com/ip3/drive.sci-adv.cc.ico",
     "slug": "a",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 279,
-    "timeDay": 2062,
-    "timeWeek": 674,
+    "timeDay": 1453,
+    "timeWeek": 619,
     "timeMonth": 257,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2025-08-25": 1
+      "2025-08-25": 6
     }
   },
   {
@@ -82,17 +82,17 @@
     "slug": "",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 600,
-    "timeDay": 562,
+    "timeDay": 561,
     "timeWeek": 529,
     "timeMonth": 586,
     "timeYear": 600,
     "dailyMinutesDown": {
-      "2025-08-25": 1
+      "2025-08-25": 6
     }
   }
 ]
