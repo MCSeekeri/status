@@ -4,19 +4,19 @@
     "url": "https://pan.mcseekeri.com/api/?path=/",
     "icon": "https://icons.duckduckgo.com/ip3/pan.mcseekeri.com.ico",
     "slug": "",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 603,
-    "timeDay": 633,
-    "timeWeek": 1149,
-    "timeMonth": 576,
+    "timeDay": 573,
+    "timeWeek": 1086,
+    "timeMonth": 575,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2025-09-20": 0
+      "2025-09-20": 7
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://drive.sci-adv.cc/api/?path=/",
     "icon": "https://icons.duckduckgo.com/ip3/drive.sci-adv.cc.ico",
     "slug": "a",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 315,
-    "timeWeek": 172,
-    "timeMonth": 250,
-    "timeYear": 249,
+    "time": 248,
+    "timeDay": 214,
+    "timeWeek": 164,
+    "timeMonth": 247,
+    "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-09-20": 1
+      "2025-09-20": 7
     }
   },
   {
