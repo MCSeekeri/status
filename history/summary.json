@@ -6,18 +6,16 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 603,
-    "timeDay": 573,
-    "timeWeek": 1086,
-    "timeMonth": 575,
+    "timeDay": 556,
+    "timeWeek": 1108,
+    "timeMonth": 579,
     "timeYear": 603,
-    "dailyMinutesDown": {
-      "2025-09-20": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "科 A 资源站",
@@ -26,18 +24,16 @@
     "slug": "a",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 248,
-    "timeDay": 214,
-    "timeWeek": 164,
+    "time": 247,
+    "timeDay": 105,
+    "timeWeek": 163,
     "timeMonth": 247,
-    "timeYear": 248,
-    "dailyMinutesDown": {
-      "2025-09-20": 7
-    }
+    "timeYear": 247,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Remember11 中文站",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1371,
-    "timeDay": 1265,
-    "timeWeek": 1329,
-    "timeMonth": 1333,
-    "timeYear": 1371,
+    "time": 1373,
+    "timeDay": 1641,
+    "timeWeek": 1377,
+    "timeMonth": 1332,
+    "timeYear": 1373,
     "dailyMinutesDown": {}
   }
 ]
