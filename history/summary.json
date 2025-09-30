@@ -4,19 +4,19 @@
     "url": "https://pan.mcseekeri.com/api/?path=/",
     "icon": "https://icons.duckduckgo.com/ip3/pan.mcseekeri.com.ico",
     "slug": "",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 603,
-    "timeDay": 331,
-    "timeWeek": 467,
-    "timeMonth": 633,
+    "timeDay": 350,
+    "timeWeek": 455,
+    "timeMonth": 628,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2025-09-30": 0
+      "2025-09-30": 18
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://drive.sci-adv.cc/api/?path=/",
     "icon": "https://icons.duckduckgo.com/ip3/drive.sci-adv.cc.ico",
     "slug": "a",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 93,
-    "timeWeek": 137,
-    "timeMonth": 156,
-    "timeYear": 243,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 242,
+    "timeDay": 95,
+    "timeWeek": 132,
+    "timeMonth": 155,
+    "timeYear": 242,
     "dailyMinutesDown": {
-      "2025-09-30": 1
+      "2025-09-30": 18
     }
   },
   {
