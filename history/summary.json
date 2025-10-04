@@ -4,10 +4,10 @@
     "url": "https://pan.mcseekeri.com/api/?path=/",
     "icon": "https://icons.duckduckgo.com/ip3/pan.mcseekeri.com.ico",
     "slug": "",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 603,
@@ -16,6 +16,7 @@
     "timeMonth": 651,
     "timeYear": 603,
     "dailyMinutesDown": {
+      "2025-10-04": 0,
       "2025-09-30": 18
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://drive.sci-adv.cc/api/?path=/",
     "icon": "https://icons.duckduckgo.com/ip3/drive.sci-adv.cc.ico",
     "slug": "a",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 263,
@@ -36,6 +37,7 @@
     "timeMonth": 287,
     "timeYear": 263,
     "dailyMinutesDown": {
+      "2025-10-04": 1,
       "2025-09-30": 18
     }
   },
