@@ -1,7 +1,7 @@
 url: https://drive.sci-adv.cc/api/?path=/
-status: up
-code: 200
-responseTime: 110
-lastUpdated: 2025-10-19T23:20:31.681Z
+status: down
+code: 500
+responseTime: 3292
+lastUpdated: 2025-10-20T07:16:27.623Z
 startTime: 2025-05-15T11:24:02.585Z
 generator: Upptime <https://github.com/upptime/upptime>
