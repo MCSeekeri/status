@@ -4,9 +4,9 @@
     "url": "https://pan.mcseekeri.com/api/?path=/",
     "icon": "https://icons.duckduckgo.com/ip3/pan.mcseekeri.com.ico",
     "slug": "",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 755,
     "timeYear": 603,
     "dailyMinutesDown": {
+      "2025-11-10": 0,
       "2025-11-05": 21,
       "2025-10-20": 15,
       "2025-09-30": 18
@@ -26,11 +27,11 @@
     "url": "https://drive.sci-adv.cc/api/?path=/",
     "icon": "https://icons.duckduckgo.com/ip3/drive.sci-adv.cc.ico",
     "slug": "a",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 370,
     "timeDay": 168,
@@ -38,6 +39,7 @@
     "timeMonth": 856,
     "timeYear": 370,
     "dailyMinutesDown": {
+      "2025-11-10": 1,
       "2025-11-05": 21,
       "2025-10-20": 15,
       "2025-09-30": 18
